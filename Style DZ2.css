@@ -1,0 +1,60 @@
+ h1 {
+    text-align: center;
+    color:#050505;
+ }
+
+
+a {
+    color:#3e3eb8;
+}
+ul {
+
+    font-weight: bold;
+    display: inline;
+       
+}
+ol {
+    font-size: 1em;
+    text-align: left;
+    background-color: aliceblue;
+}
+
+li {
+    color:black;
+    
+
+    
+
+}
+p {
+    font-weight: bold;
+    text-align: left;
+    color: #0c0c0c;
+    background-color: aliceblue;
+    
+
+}
+img {
+    width: 100px;
+    margin: 10px;
+      
+
+}
+
+.info {
+    text-align: center;
+    
+}
+
+
+.avatar {
+    border-radius: 28px;
+}
+
+.container {
+       text-align: center;
+       font-weight: bold;
+     color: black;
+    
+}
+
